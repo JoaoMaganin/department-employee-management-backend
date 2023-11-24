@@ -1,0 +1,7 @@
+ui
+
+venv
+
+*.pyc
+
+db.sqlite3
