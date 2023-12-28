@@ -24,5 +24,5 @@ hon manage.py runserver
 > **Note**: This only will be run with a API Platform like Postman, or downloading the front-end this project
 
 # Testing the API
-I used the postman to test but you can use the software of your choice. It's simple, you need pass the url(127.0.0.1:800 -> the base port of Django), choice the method and run a JSON code.
+I used the postman to test but you can use the software of your choice. It's simple, you need pass the url(127.0.0.1:8000 -> the base port of Django), choice the method and run a JSON code.
 ![imagem postman](images/postman.PNG)
