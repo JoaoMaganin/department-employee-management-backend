@@ -17,7 +17,7 @@ python manage.py migrate
 ~~~
 * Now let's run the project using:
 ~~~
-hon manage.py runserver 
+pyhon manage.py runserver 
 ~~~
 
 
